@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/easybank-hfZ1Vk03X](https://www.frontendmentor.io/solutions/easybank-hfZ1Vk03X)
+- Live Site URL: [https://farukerge.github.io/easybank-landingpage/](https://farukerge.github.io/easybank-landingpage/)
 
 ## My process
 
